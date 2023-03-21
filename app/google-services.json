@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339296767052",
+    "project_id": "pixelcanvas-e8fe8",
+    "storage_bucket": "pixelcanvas-e8fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339296767052:android:73fa7479649f5de3a178e9",
+        "android_client_info": {
+          "package_name": "com.example.pixelcanvas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339296767052-l5uol2lgq67ukqn4m1sqrorenc5lh6iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjBPexi6ToFh57aE5SUrEaZFPq9Kenzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339296767052-l5uol2lgq67ukqn4m1sqrorenc5lh6iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
